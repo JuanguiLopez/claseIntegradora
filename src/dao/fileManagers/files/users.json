@@ -1,0 +1,22 @@
+[
+  {
+    "first_name": "Fernanda",
+    "last_name": "Valencia",
+    "email": "fernandav@gmail.com",
+    "dni": "123456789",
+    "birthdate": "1992/05/26",
+    "gender": "F",
+    "courses": ["Programación backend", "Frontend"],
+    "id": 1
+  },
+  {
+    "first_name": "Juangui",
+    "last_name": "López",
+    "email": "juanguilopez@gmail.com",
+    "dni": "123456789",
+    "birthdate": "1988/07/31",
+    "gender": "M",
+    "courses": ["Programación backend", "Frontend"],
+    "id": 1
+  }
+]
